@@ -62,6 +62,6 @@ public class Clase8Test {
 	
 	@AfterSuite
 	public void cerrarNavegador() {
-		//driver.close();
+		driver.close();
 	}
 }
